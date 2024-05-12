@@ -1,10 +1,12 @@
-# Projet de Master 1 en Mathématiques Appliquées pour l'Intelligence Artificielle
+# Projet de Master 1 en Mathématiques Appliquées au service de l'Intelligence Artificielle, parcours Algorithmique Calcul Symbolique et Optimisation Numérique (ACSYON)
 
 Ce dépôt contient les différents projets réalisés dans le cadre du Master 1 en Mathématiques Appliquées pour l'Intelligence Artificielle.
 
 ## Projets
 
 ### TP Detection de Spams
+
+Détection de Spams à l'aide d'un réseau de neurone et d'un Classifieur Naïf Bayésien.
 
 - Fichiers :
   - TP_Detection_de_spams.ipynb
@@ -14,11 +16,12 @@ Ce TP porte sur la détection de spams à l'aide de méthodes d'apprentissage au
 
 ### TP Projet Voyageur de Commerce
 
+Dans ce projet, nous allons étudier deux approches pour résoudre le problème du voyageur de commerce : un algorithme de colonie de fourmis et un algorithme génétique
+
 - Fichiers :
   - TP_Projet_Voyageur_de_commerce.ipynb
   - TP_Projet_Voyageur_de_commerce.pdf
 
-Ce TP aborde le problème du voyageur de commerce et explore différentes approches pour le résoudre.
 
 ### Processus Stochastique & Outils Statistique
 
