@@ -22,7 +22,7 @@ Dans ce projet, nous allons étudier deux approches pour résoudre le problème 
   - TP_Projet_Voyageur_de_commerce.ipynb
   - TP_Projet_Voyageur_de_commerce.pdf
 
-
+ <img src=Intelligence_Artificielle/voyageur0.png" alt="Iteration 0" width="50%">  <img src=Intelligence_Artificielle/voyageur1.png" alt="Iteration 4" width="50%">
 ### Processus Stochastique & Outils Statistique
 
 - Fichiers :
