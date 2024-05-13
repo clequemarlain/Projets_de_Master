@@ -21,8 +21,14 @@ Dans ce projet, nous allons étudier deux approches pour résoudre le problème 
 - Fichiers :
   - TP_Projet_Voyageur_de_commerce.ipynb
   - TP_Projet_Voyageur_de_commerce.pdf
+  - 
+Chemin le plus court pour visiter 14 ville une et une seule fois (2 ieme image)
 
- <img src=Intelligence_Artificielle/voyageur0.png" alt="Iteration 0" width="50%">  <img src=Intelligence_Artificielle/voyageur1.png" alt="Iteration 4" width="50%">
+ <div style="text-align:center;">
+    <img src="voyageur0.png" alt="Iteration 0" style="width:40%;">
+    <img src="voyageur1.png" alt="Iteration 4" style="width:40%;">
+</div>
+
 ### Processus Stochastique & Outils Statistique
 
 - Fichiers :
@@ -33,6 +39,11 @@ Cette partie du projet traite des processus stochastiques et des outils statisti
 
 ### Programmation & Algorithmique
 
+ASCII ART:
+<div style="text-align:center;">
+    <img src="voyageur0.png" alt="Iteration 0" style="width:40%;">
+    <img src="ascii musk" alt="Iteration 4" style="width:40%;">
+</div>
 - Fichiers :
   - Makefile
   - Projet_Programmation_et_Algorithmique.pdf
