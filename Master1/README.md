@@ -22,7 +22,7 @@ Dans ce projet, nous allons étudier deux approches pour résoudre le problème 
   - TP_Projet_Voyageur_de_commerce.ipynb
   - TP_Projet_Voyageur_de_commerce.pdf
   - 
-Chemin le plus court pour visiter 14 ville une et une seule fois (2 ieme image)
+Chemin le plus court pour visiter 15 ville une et une seule fois (2 ieme image)
 
  <div style="text-align:center;">
     <img src="voyageur0.png" alt="Iteration 0" style="width:40%;">
@@ -64,4 +64,3 @@ Ce poster résume les principales conclusions et résultats du stage réalisé d
 
 ---
 
-Ce README.md fournit une vue d'ensemble des différents projets inclus dans ce dépôt. Pour plus de détails sur chaque projet, veuillez consulter les fichiers correspondants.
