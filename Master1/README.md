@@ -56,6 +56,8 @@ Ce rapport décrit le stage réalisé dans le cadre du Master 1 en Mathématique
 
 - Fichiers :
   - Poster_Stage_M1.jpg
+    ![Texte alternatif](chemin/vers/votre/image.jpg)
+
 
 Ce poster résume les principales conclusions et résultats du stage réalisé dans le cadre du Master 1.
 
