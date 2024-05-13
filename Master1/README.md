@@ -41,20 +41,11 @@ Cette partie du projet traite des processus stochastiques et des outils statisti
 
 ASCII ART:
 <div style="text-align:center;">
-    <img src="voyageur0.png" alt="Iteration 0" style="width:40%;">
-    <img src="ascii musk" alt="Iteration 4" style="width:40%;">
+    <img src="Programmation_Algorithmique/ELONMUSK.jpg" alt="ELON " style="width:50%;">
+    <img src="Programmation_Algorithmique/ascii_musk.png" alt="ascii" style="width:40%;">
 </div>
-- Fichiers :
-  - Makefile
-  - Projet_Programmation_et_Algorithmique.pdf
-  - functions.h
-  - image.jpg
-  - projet_final.c
-  - projet_pt1.c
-  - projet_pt2.c
-  - projet_pt3.c
 
-Ce volet du projet se concentre sur la programmation et l'algorithmique, avec des projets pratiques implémentant divers algorithmes.
+Ce projet était une initiation au langage C++, le but était de transformer une image en image ASCII
 
 ### Rapport de Stage de Master 1
 
