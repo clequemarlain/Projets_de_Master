@@ -28,9 +28,10 @@ This internship focused on developing deep learning algorithms for defect detect
 ## Acknowledgments
 
 Special thanks to:
+- Mr. Benoit JALARD, internship supervisor, for his trust and support.
 - Mr. Yvon FONTAINE and Mr. Laurent DOREL for their invaluable support and guidance.
 - CLECIM for the opportunity to work in the field of Artificial Intelligence.
-- Mr. Benoit JALARD, internship supervisor, for his trust and support.
+
 
 ---
 
